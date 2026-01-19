@@ -4,5 +4,5 @@ This Java allows users to:
 - Generate or summarizing how many books are available and borrowed
 - Exit the program 
 
-The program uses arrays to store book titles and their statuses,
+The program uses arrays to store book and the status,
 and a menu-driven interface to interact with the user.
