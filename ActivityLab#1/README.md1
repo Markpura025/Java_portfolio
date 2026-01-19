@@ -1,1 +1,8 @@
+This Java allows users to:
+- Add books (up to a maximum of 5)
+- Update the status of a book ( between "Available" and "Borrowed")Show all books with their current status
+- Generate or summarizing how many books are available and borrowed
+- Exit the program 
 
+The program uses arrays to store book titles and their statuses,
+and a menu-driven interface to interact with the user.
