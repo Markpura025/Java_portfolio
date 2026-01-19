@@ -1,1 +1,5 @@
+On this code Have a two classes:
+- Customer: have a name and loyalty points. It also tracks the total number of customers.
+- CoffeeShop: Manages several Customer instances and simulates adding points, redeeming rewards, and displaying customer information.
 
+On this code, we can see how customers earn points, redeem their rewards, and how the system tracks total customers and the customers points.
