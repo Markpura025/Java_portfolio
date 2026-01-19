@@ -1,1 +1,5 @@
-
+on this Java a simple school system with classes representing Person, Student, Teacher, and Course. 
+It demonstrate key on object-oriented programming concepts such as:
+- Inheritance (Student and Teacher extend Person)
+- Aggregation (a Teacher has multiple Course objects)
+- Encapsulation (using fields and methods to represent and display data)
